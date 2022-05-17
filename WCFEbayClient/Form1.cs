@@ -1,12 +1,7 @@
 ﻿using System;
 using System.ServiceModel;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using WCFEbayClient.ServiceReference2;
 
@@ -15,7 +10,7 @@ namespace WCFEbayClient
     public partial class Form1 : Form
     {
 
-        ServiceReference2.Service1Client client = new ServiceReference2.Service1Client();
+        Service1Client client = new ServiceReference2.Service1Client();
         List<string> maxCarId = new List<string>();
         List<string> maxUserId = new List<string>();
         //find a way to get all the cars in a list here so you know the highest id and start from it 
@@ -30,7 +25,12 @@ namespace WCFEbayClient
         public void MaxID()
         {
             //get all cars id
-            // to use it for checking if the user will want to edit the user after he retrieve it by the id ex. imagine that the user retrieved a user by id and wnated to change something in it, if the user changed and added, i woud have duplication of carID in the database that would case problem when trying to get user by id later as there are two with same id, this one will check first if the id exists when adding a user if yes then will ask user if they want to change, if yes then will continue, if not then will delete the data in the text boxes
+            // to use it for checking if the user will want to edit the user after he retrieve it by the id ex.
+            // imagine that the user retrieved a user by id and wnated to change something in it, if the user
+            // changed and added, i woud have duplication of carID in the database that would case problem
+            // when trying to get user by id later as there are two with same id, this one will check first if the
+            // id exists when adding a user if yes then will ask user if they want to change, if yes then will continue,
+            // if not then will delete the data in the text boxes
 
             List<Car> CarResult; //can be made as global variable for adding and save memory
             CarResult = client.allCars().ToList<Car>();
@@ -73,7 +73,6 @@ namespace WCFEbayClient
             dgvForAll.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
 
         }
-
         void intializeDgvForUsers()
         {
             //User's ID, First name , Last name
@@ -94,7 +93,7 @@ namespace WCFEbayClient
         }
 
 
-        private void tbUserAdd_Click(object sender, EventArgs e) //bid 
+        private void tbUserAdd_Click(object sender, EventArgs e)
         {
             try
             {
@@ -191,7 +190,6 @@ namespace WCFEbayClient
                 MessageBox.Show(ex.Message, "System Error");
             }
         }
-
 
         private void btCarAdd_Click(object sender, EventArgs e)
         {
@@ -550,42 +548,6 @@ namespace WCFEbayClient
                           + string.Format("{0} is the last ID in the Cars", maxCarId.Last()), "Highest ID");
 
         }
-
-        #region Bid Section
-
-        /*
-
-           try
-           {
-              if (tbUserFirstName.TextLength < 3)
-              {
-                 MessageBox.Show("Code can't be less than 3 character");
-                 tbUserFirstName.Text = "";
-              }
-              else if (string.IsNullOrEmpty(tbUserFirstName.Text))
-              {
-                 MessageBox.Show("Code can't be empty");
-                 tbUserFirstName.Text = "";
-              }
-              string result = client.Bid(tbUserId.Text, int.Parse(tbUserFirstName.Text), uid);
-              label1.Text = result;
-           }
-           catch (FaultException<ServiceData> Fex)
-           {
-              MessageBox.Show("ErrorMessage::" + Fex.Detail.ErrorMessage + Environment.NewLine, "input Error");
-              MessageBox.Show("ErrorDetails::" + Environment.NewLine + Fex.Detail.ErrorDetails, "input Error");
-           }
-           catch (EndpointNotFoundException)
-           {
-              MessageBox.Show("Problem with the server!");
-           }
-           catch (Exception ex)
-           {
-              MessageBox.Show(ex.Message, "System Error");
-           }
-
-         */
-        #endregion
 
     }
 }

@@ -38,3 +38,13 @@ D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To up
 D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.CoreCompileInputs.cache
 D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.exe
 D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.pdb
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\bin\Debug\WCFEbayClient.exe.config
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\bin\Debug\WCFEbayClient.exe
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.AssemblyReference.cache
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.Form1.resources
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.Properties.Resources.resources
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.GenerateResource.cache
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.CoreCompileInputs.cache
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.exe
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\obj\Debug\WCFEbayClient.pdb
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayClient\bin\Debug\WCFEbayClient.pdb
