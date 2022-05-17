@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WCFEbayServer" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WCFEbayServer" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="UnsuccessfullLoginFault">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UnsuccessfullLoginFault" nillable="true" type="tns:UnsuccessfullLoginFault" />
+  <xs:complexType name="ServiceData">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ErrorDetails" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ErrorMessage" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Result" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ServiceData" nillable="true" type="tns:ServiceData" />
+  <xs:complexType name="ArrayOfProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Product" nillable="true" type="tns:Product" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProduct" nillable="true" type="tns:ArrayOfProduct" />
+  <xs:complexType name="Product">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Curr_price" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Product" nillable="true" type="tns:Product" />
+  <xs:complexType name="Car">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Brand" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CarID" type="xs:int" />
+      <xs:element minOccurs="0" name="License_plate" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Car" nillable="true" type="tns:Car" />
+  <xs:complexType name="ArrayOfCar">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Car" nillable="true" type="tns:Car" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCar" nillable="true" type="tns:ArrayOfCar" />
+  <xs:complexType name="users">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SecondName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="users" nillable="true" type="tns:users" />
+  <xs:complexType name="ArrayOfusers">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="users" nillable="true" type="tns:users" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfusers" nillable="true" type="tns:ArrayOfusers" />
+</xs:schema>

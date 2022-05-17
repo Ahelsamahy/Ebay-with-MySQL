@@ -1,0 +1,40 @@
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\bin\Debug\WCFEbayClient.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\bin\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\bin\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.Form1.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.Properties.Resources.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.GenerateResource.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayClient\obj\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\bin\Debug\WCFEbayClient.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\bin\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\bin\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.Form1.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.Properties.Resources.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.GenerateResource.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayClient\obj\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\bin\Debug\WCFEbayClient.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\bin\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\bin\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.Form1.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.Properties.Resources.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.GenerateResource.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Adding database\WCFEbayClient\obj\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\bin\Debug\WCFEbayClient.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\bin\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\bin\Debug\WCFEbayClient.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.AssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.Form1.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.Properties.Resources.resources
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.GenerateResource.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayClient\obj\Debug\WCFEbayClient.pdb
