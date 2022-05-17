@@ -1,0 +1,88 @@
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\bin\Debug\WCFEbayHost.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\bin\Debug\WCFEbayHost.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\bin\Debug\WCFEbayHost.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\bin\Debug\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\bin\Debug\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\bin\Debug\Tesztelek.dll.config
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\obj\Debug\WCFEbayHost.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CopyComplete
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\obj\Debug\WCFEbayHost.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\WCFEbayHost\obj\Debug\WCFEbayHost.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\Database1.mdf
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\Database1_log.ldf
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\WCFEbayHost.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\WCFEbayHost.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\WCFEbayHost.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\bin\Debug\Tesztelek.dll.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\obj\Debug\WCFEbayHost.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CopyComplete
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\obj\Debug\WCFEbayHost.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\WCFEbayHost\obj\Debug\WCFEbayHost.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\WCFEbayHost.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\WCFEbayHost.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\WCFEbayHost.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\MySql.Data.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\Google.Protobuf.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\ZstdNet.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\Ubiety.Dns.Core.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Memory.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Buffers.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\K4os.Hash.xxHash.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Numerics.Vectors.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\MySql.Data.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\Google.Protobuf.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\Google.Protobuf.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Memory.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Buffers.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\bin\Debug\System.Numerics.Vectors.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\obj\Debug\WCFEbayHost.exe.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CopyComplete
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\obj\Debug\WCFEbayHost.exe
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\obj\Debug\WCFEbayHost.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.AssemblyReference.cache
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\WCFEbayHost.exe.config
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\WCFEbayHost.exe
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\WCFEbayHost.pdb
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\Tesztelek.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\MySql.Data.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\Google.Protobuf.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\ZstdNet.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\Ubiety.Dns.Core.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Memory.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Buffers.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\Tesztelek.pdb
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\MySql.Data.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\Google.Protobuf.pdb
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\Google.Protobuf.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Memory.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Buffers.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.AssemblyReference.cache
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\obj\Debug\WCFEbayHost.exe.config
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CoreCompileInputs.cache
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\obj\Debug\WCFEbayHost.csproj.CopyComplete
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\obj\Debug\WCFEbayHost.exe
+D:\Projects\__Programming_Projects\Uni's\Ebay-with-MySQL\WCFEbayHost\obj\Debug\WCFEbayHost.pdb

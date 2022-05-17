@@ -1,0 +1,190 @@
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\bin\Tesztelek.dll.config
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\bin\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\bin\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\obj\Debug\Tesztelek.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\obj\Debug\Tesztelek.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\obj\Debug\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\22Nov\Tesztelek\obj\Debug\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Tesztelek.dll.config
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\obj\Debug\Tesztelek.csprojAssemblyReference.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\obj\Debug\Tesztelek.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\obj\Debug\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\obj\Debug\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\BouncyCastle.Crypto.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Google.Protobuf.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\K4os.Compression.LZ4.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\K4os.Compression.LZ4.Streams.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\K4os.Hash.xxHash.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\MySql.Data.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Buffers.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Memory.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Numerics.Vectors.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Ubiety.Dns.Core.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\ZstdNet.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Google.Protobuf.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Google.Protobuf.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\K4os.Compression.LZ4.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\K4os.Compression.LZ4.Streams.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\K4os.Hash.xxHash.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\MySql.Data.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Buffers.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Memory.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Numerics.Vectors.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\obj\Debug\Tesztelek.csproj.CopyComplete
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Hosting.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Configuration.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Console.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Debug.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.EventLog.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.EventSource.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Options.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Primitives.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Text.Encodings.Web.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Text.Json.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Threading.Tasks.Extensions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.ValueTuple.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Hosting.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Configuration.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Console.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.Debug.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.EventLog.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Logging.EventSource.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Options.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\Microsoft.Extensions.Primitives.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Text.Encodings.Web.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Text.Json.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.Threading.Tasks.Extensions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\Tesztelek\bin\System.ValueTuple.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\BouncyCastle.Crypto.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Google.Protobuf.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\K4os.Compression.LZ4.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\K4os.Compression.LZ4.Streams.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\K4os.Hash.xxHash.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Hosting.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Configuration.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Console.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Debug.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.EventLog.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.EventSource.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Options.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Primitives.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\MySql.Data.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Buffers.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Memory.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Numerics.Vectors.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Text.Encodings.Web.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Text.Json.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Threading.Tasks.Extensions.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.ValueTuple.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Ubiety.Dns.Core.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\ZstdNet.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Google.Protobuf.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Google.Protobuf.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\K4os.Compression.LZ4.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\K4os.Compression.LZ4.Streams.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\K4os.Hash.xxHash.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Hosting.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Configuration.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Console.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.Debug.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.EventLog.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Logging.EventSource.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Options.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\Microsoft.Extensions.Primitives.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\MySql.Data.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Buffers.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Memory.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Numerics.Vectors.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Text.Encodings.Web.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Text.Json.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.Threading.Tasks.Extensions.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\bin\System.ValueTuple.xml
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\obj\Debug\Tesztelek.csproj.CoreCompileInputs.cache
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\obj\Debug\Tesztelek.csproj.CopyComplete
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\obj\Debug\Tesztelek.dll
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\obj\Debug\Tesztelek.pdb
+D:\Work\Collage\Second Year\First Semester\service oriented\__One project\_To upload\Tesztelek\obj\Debug\Tesztelek.csproj.AssemblyReference.cache
