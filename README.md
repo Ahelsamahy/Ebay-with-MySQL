@@ -2,9 +2,8 @@
 <p style="font-size:15px" align="center">
   <a href="#Introduction">Introduction</a> •
   <a href="#How-it-works">How it Works</a> •
-  <a href="#Make-It-Work">Start it</a> •
+  <a href="#Installation">Installation</a> •
   <a href="#Functionalities">Scope of functionalities</a> •
-  <a href="#Sources">Sources</a> •
   <a href="#emailware">Emailware</a> •
   <a href="#license">License</a>
 </p>
@@ -24,7 +23,7 @@ The idea was to make a client  side (WCFEbayClient) that is connected to server 
 Heads up, lot of talking is coming ahead. So first there is an instance from host is running that is responsible about giving the data to the client side, the user interacts with the form on the client side, then it sends the request to host then to server where a SQL statement runs on the database and returns the value to the client side in the right data field to show it.
 
 
-# Make-It-Work
+# Installation
 
 1. Clone this repository ```git clone https://github.com/Ahelsamahy/Ebay-with-MySQL```
 
